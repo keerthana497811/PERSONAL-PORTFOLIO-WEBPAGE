@@ -12,7 +12,7 @@ DURATION : 4 WEEKS
 
 "MENTOR" : NEELA SANTHOSH
 
-DESCRIPTION :
+#DESCRIPTION :
 
 This project involves the design and development of a Personal Portfolio Website that showcases my academic background, technical skills, projects, and contact information in a professional and visually appealing manner. The main objective of this project is to create an online platform that represents my profile as an aspiring IT professional and helps me present my skills effectively to recruiters, internship coordinators, and peers.
 
@@ -27,7 +27,7 @@ The application of this project is highly practical. A personal portfolio websit
 
 Overall, this project serves as a strong foundation for my future learning in advanced web technologies such as JavaScript, React, and full stack development.
 
-OUTPUT :
+#OUTPUT :
 
 <img width="1904" height="961" alt="Image" src="https://github.com/user-attachments/assets/894e11eb-1e23-478e-9cd0-7fc8e464ffba" />
 <img width="1899" height="971" alt="Image" src="https://github.com/user-attachments/assets/762a2f11-d5f3-4725-a819-48f0b6cc6b13" />
